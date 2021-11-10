@@ -1,0 +1,16 @@
+  
+/* definición de variables */
+:root {
+    --my-background : black;
+    --my-font-family : 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif' ,'Josefin Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --my-color: gray;
+    --my-line-height: 1.444;
+}
+/* definición de variables */
+body{
+    background: var(--my-background);
+    font-family: var(--my-font-family);
+    line-height: var(--my-line-height);
+    color: var(--my-color);
+    margin: 10px;
+}
