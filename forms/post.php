@@ -7,7 +7,7 @@
 
 $cabeceras = "From: $email\n" . "Reply-To: $email\n"; 
 $asunto = "$subject";
-$email_to = "soniacelis@gmail.com";
+$email_to = "tu cuenta@dominio";
 $contenido = 
 "\n" . 
 "MENSAJES ENVIADOS DESDE FORMULARIO DE CONTACTO DE: soniacelis.es" . 
